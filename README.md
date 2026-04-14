@@ -1,4 +1,4 @@
-#  - E-Commerce Platform
+#   E-Commerce Platform
 
 Uma plataforma de e-commerce moderna e completa, desenvolvida com **FastAPI** (backend Python) e **React + Tailwind CSS** (frontend), com integração de banco de dados SQLite e análise de dados.
 

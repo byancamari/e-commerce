@@ -76,8 +76,8 @@ pnpm --version
 ### 1️⃣ Clone o Repositório
 
 ```bash
-git clone https://github.com/gabrielmpinha/rocketlab2026.git
-cd rocketlab2026
+git clone https://github.com/byancamari/e-commerce.git
+cd e-commerce
 ```
 
 ### 2️⃣ Setup Backend (Python)

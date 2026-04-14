@@ -342,15 +342,10 @@ Abra uma nova terminal (outra tem a conexão ativa)
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gabriel Mota Pinha** para o projeto RocketLab 2026.
+A base desse projeto foi desenvolvido por **Gabriel Mota Pinha** para o projeto RocketLab 2026.
 
 ---
 
-## 📄 Licença
-
-Este projeto é de uso livre para fins educacionais.
-
----
 
 ## 🤝 Suporte
 

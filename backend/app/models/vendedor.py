@@ -9,6 +9,6 @@ class Vendedor(Base):
 
     id_vendedor: Mapped[str] = mapped_column(String(32), primary_key=True)
     nome_vendedor: Mapped[str] = mapped_column(String(255))
-    prefixo_cep: Mapped[str] = mapped_column(String(10))
+    prefixo_cep: Mapped[str] = mapped_column(String(20))
     cidade: Mapped[str] = mapped_column(String(100))
     estado: Mapped[str] = mapped_column(String(2))
